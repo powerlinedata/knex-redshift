@@ -4,7 +4,7 @@
   "description": "A Redshift dialect for knex",
   "main": "lib/index.js",
   "peerDependencies": {
-    "knex": "^0.13.0"
+    "knex": "^0.14.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
